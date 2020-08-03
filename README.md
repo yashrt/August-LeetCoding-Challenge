@@ -6,3 +6,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-02 [Design HashSet](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3410/)
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-02.cpp)
+
+## Day-03 [Valid Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3411/)
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-03.cpp)
