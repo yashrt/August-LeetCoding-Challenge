@@ -12,3 +12,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-04 [Power of Four](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3412/)
 ### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-04.cpp)
+
+## Day-05 [Add and Search Word - Data structure design](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3413/)
+### [Solution](https://github.com/yashrt/July-LeetCoding-Challenge/blob/master/Day-05.cpp)
