@@ -15,3 +15,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-05 [Add and Search Word - Data structure design](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3413/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-05.cpp)
+
+## Day-06 [Find All Duplicates in an Array](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3414/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-06.cpp)
