@@ -21,3 +21,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-07 [Vertical Order Traversal of a Binary Tree](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/549/week-1-august-1st-august-7th/3415/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-07.cpp)
+
+## Day-08 [Path Sum III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3417/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-08.cpp)
