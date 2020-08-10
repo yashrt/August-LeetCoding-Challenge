@@ -27,3 +27,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-09 [Rotting Oranges](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3418/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-09.cpp)
+
+## Day-10 [Excel Sheet Column Number](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3419/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-10.cpp)
