@@ -36,3 +36,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-12 [Pascal's Triangle II](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3421/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-12.cpp)
+
+## Day-13 [Iterator for Combination](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-13.cpp)
