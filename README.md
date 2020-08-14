@@ -39,3 +39,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-13 [Iterator for Combination](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3422/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-13.cpp)
+
+## Day-14 [Longest Palindrome](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/550/week-2-august-8th-august-14th/3423/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-14.cpp)
