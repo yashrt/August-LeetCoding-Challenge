@@ -48,3 +48,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-16 [Best Time to Buy and Sell Stock III](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3426/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-16.cpp)
+
+## Day-17 [Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-17.cpp)
