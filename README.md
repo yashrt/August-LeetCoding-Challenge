@@ -51,3 +51,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-17 [Distribute Candies to People](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3427/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-17.cpp)
+
+## Day-18 [Numbers With Same Consecutive Differences](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3428/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-18.cpp)
