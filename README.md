@@ -72,3 +72,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-24 [Sum of Left Leaves](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3435/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-24.cpp)
+
+## Day-25 [Minimum Cost For Tickets](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3436/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-25.cpp)
