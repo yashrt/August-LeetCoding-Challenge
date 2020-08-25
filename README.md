@@ -57,3 +57,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-19 [Goat Latin](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3429/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-19.cpp)
+
+## Day-20 [Reorder List](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3430/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-20.cpp)
