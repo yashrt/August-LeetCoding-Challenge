@@ -63,3 +63,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-21 [Sort Array By Parity](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/551/week-3-august-15th-august-21st/3431/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-21.cpp)
+
+## Day-22 [Random Point in Non-overlapping Rectangles](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3433/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-22.cpp)
