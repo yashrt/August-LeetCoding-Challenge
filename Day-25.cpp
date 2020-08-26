@@ -1,20 +1,22 @@
 class Solution {
 public:
     int mincostTickets(vector<int>& days, vector<int>& costs) {
-    
-        int n = days.back();
-        vector<int> dp(n + 1);
-        unordered_set<int> seen(days.begin(), days.end());
-
-        for (int i = 1; i <= n; i++) {
-            if (!seen.count(i))
-                dp[i] = dp[i - 1];
-            else
-                dp[i] = min({dp[i - 1] + costs[0], 
-                             dp[max(0, i -  7)] + costs[1], 
-                             dp[max(0, i - 30)] + costs[2]});
+        int n = days.size();
+        vector<int> dp(n+1, 0);
+        dp[0] = 0;
+        
+        for(int i=1; i< n+1; i++)
+        {
+            int d7 = i, d30 = i;
+            while(d7>=0 && days[d7]<days[i]-7)
+                d7--;
+            while(d30>=0 && days[d30]<days[i]-30)
+                d30--;
+             dp[i] = min({costs[0] + dp[i-1],
+                         costs[1] + dp[d7],
+                         costs[2] + dp[d30]
+                          });
         }
-
         return dp[n];
     }
 };
