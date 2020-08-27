@@ -75,3 +75,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-25 [Minimum Cost For Tickets](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3436/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-25.cpp)
+
+## Day-26 [Fizz Buzz](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3437/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-26.cpp)
