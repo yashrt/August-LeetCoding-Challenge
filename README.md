@@ -78,3 +78,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-26 [Fizz Buzz](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3437/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-26.cpp)
+
+## Day-27 [Find Right Interval](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3438/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-27.cpp)
