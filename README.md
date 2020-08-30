@@ -84,3 +84,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-28 [Implement Rand10() Using Rand7()](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/552/week-4-august-22nd-august-28th/3439/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-28.cpp)
+
+## Day-29 [Pancake Sorting](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3441/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-29.cpp)
