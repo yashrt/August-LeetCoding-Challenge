@@ -87,3 +87,6 @@ August LeetCoding Challenge is a month long challenge organised by Leetcode. Thi
 
 ## Day-29 [Pancake Sorting](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3441/)
 ### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-29.cpp)
+
+## Day-30 [Largest Component Size by Common Factor](https://leetcode.com/explore/challenge/card/august-leetcoding-challenge/553/week-5-august-29th-august-31st/3442/)
+### [Solution](https://github.com/yashrt/August-LeetCoding-Challenge/blob/master/Day-30.cpp)
